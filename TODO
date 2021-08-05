@@ -1,0 +1,12 @@
+Used angular best practices
+Json-server is used
+User can book a flight
+User can download ticket
+Admin can login
+Admin can not add airline
+Admin can not add flight
+Admin can not add discount
+Pending
+-----------------
+User can not see history
+User can not cancel ticket
